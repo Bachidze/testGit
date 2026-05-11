@@ -1,1 +1,4 @@
-console.log("hello")
+let arr = [1,2,3,4]
+
+let filteredArr = arr.filter(el => el => 2)
+console.log(filteredArr)
